@@ -22,7 +22,7 @@
 
 # Web服务端的环境设置
 ## 服务端的选择
-   * 1. PHP
+   * 1. Apache HTTP Server  -->  PHP -->  Nginx
    * 2. Tomcat
    * 3. Wildfly（JavaEE）
    * 4. 其他的架构
