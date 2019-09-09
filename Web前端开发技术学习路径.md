@@ -45,3 +45,6 @@
    - 参考
 ### JavaScript的学习 - 注：JavaScript与Java是完全不同的语言
    - 参考
+### 其他知识的学习
+   * XML语言的学习
+   * Jason的知识
