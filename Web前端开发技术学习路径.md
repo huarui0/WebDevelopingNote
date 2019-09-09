@@ -30,9 +30,9 @@
 ## HTML的学习
 
 ### HTML和HTML5的学习
-   * HTML的学习
+   * HTML的学习 - 要与HTML5的学习同步，了解不同点和相同点
       - 参考
-   * HTML的学习
+   * HTML5的学习
       - 参考
    * HTML5与HTML的共同点与不同点
 ### CSS的学习
