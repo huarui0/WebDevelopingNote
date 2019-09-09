@@ -35,6 +35,7 @@
          1. [W3School的HTML教程](http://www.w3school.com.cn/index.html)<br>
    * HTML5的学习
       - 参考
+         1. [w3schools的HTML5 Tutorial](https://www.w3schools.com/html/default.asp)<br>
    * HTML5与HTML的共同点与不同点
 ### CSS的学习
    - 参考
