@@ -42,6 +42,7 @@
 ### JavaScript的学习 - 注：JavaScript与Java是完全不同的语言
    - 参考
 ### 其他知识的学习
-   * XML语言的学习
+   * XML的知识
+      + >扩展标记语言，标准通用标记语言的子集，简称XML。是一种用于标记电子文件使其具有结构性的标记语言。
    * Joson的知识
       + >JSON(JavaScript Object Notation, JS 对象简谱) 是一种轻量级的数据交换格式。它基于 ECMAScript (欧洲计算机协会制定的js规范)的一个子集，采用完全独立于编程语言的文本格式来存储和表示数据。
