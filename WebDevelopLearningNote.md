@@ -4,7 +4,7 @@
    * 书目清单（优先级顺序）
       + [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github) - GitHub的使用指南<br>
       + [Git Tutorial](https://git-scm.com/docs/gittutorial) - 官方的教程，基本操作学会后，可以看下，哪些需要补学的<br>
-      + [Git -- fast-version-control - 官网主页](https://git-scm.com/)<br>
+      + [Git -- fast-version-control](https://git-scm.com/) - 官网主页<br>
          - >Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 
          - >Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
