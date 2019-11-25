@@ -2,6 +2,7 @@
    * 权威参考网站
       + [W3C - STANDARDS](https://www.w3.org/standards/)<br>
          >The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential. Contact W3C for more information.
+      + [HTML & CSS](https://www.w3.org/standards/webdesign/htmlcss)<br>
    * 书目清单（优先级顺序）
       + [Getting started with GitHub](https://help.github.com/en/github/getting-started-with-github) - GitHub的使用指南<br>
       + [Git Tutorial](https://git-scm.com/docs/gittutorial) - 官方的教程，基本操作学会后，可以看下，哪些需要补学的<br>
