@@ -48,8 +48,8 @@
                5. [Convert sources to UTF-8 without BOM](https://stackoverflow.com/questions/54534765/convert-sources-to-utf-8-without-bom) - 这个是用 Window PowerShell的 脚本方法，PowerShell是微软新开发的Window 10操作系统上用到的脚本 <br>
                5. [Keep Same Encoding With Set-Content Multiple Files in PowerShell](https://stackoverflow.com/questions/56133188/keep-same-encoding-with-set-content-multiple-files-in-powershell)<br>
                6. PowerShell的官方教程 及 与Encoding相关的内容
-                  [Understanding file encoding in VSCode and PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/components/vscode/understanding-file-encoding?view=powershell-6)<br>
-                  [Set-Content](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-content?view=powershell-6)<br>
+                  - [Understanding file encoding in VSCode and PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/components/vscode/understanding-file-encoding?view=powershell-6)<br>
+                  - [Set-Content](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-content?view=powershell-6)<br>
                7. [Changing PowerShell's default output encoding to UTF-8](https://stackoverflow.com/questions/40098771/changing-powershells-default-output-encoding-to-utf-8)<br>
                8. [HOW TO SOLVE UNICODE ENCODING ISSUES - WHAT IS ENCODING?](https://blog.invivoo.com/how-to-solve-unicode-encoding-issues/)<br>
                10. [WMIC command in batch outputting non UTF-8 text files](https://stackoverflow.com/questions/55310573/wmic-command-in-batch-outputting-non-utf-8-text-files)<br>
