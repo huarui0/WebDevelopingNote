@@ -12,3 +12,19 @@
 
 # html知识总览
 
+   * :eight_pointed_black_star:关于 Encoding - 文件的编码格式，-- **需要学习的知识** --
+      + 参考
+         - []()<br>
+      + 转换与查询的方法
+         - Linux
+            + 参考
+               1. [How to Convert Files to UTF-8 Encoding in Linux](https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/)<br>
+               2. []()
+            + 步骤与方法
+               1， 查询文档的编码格式
+               ```bash
+                   $ file -i Car.java
+               ```
+               2. 转换（更改）编码格式
+         
+         - Windows
