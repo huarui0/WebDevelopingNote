@@ -14,12 +14,13 @@
 
    * :eight_pointed_black_star:关于 Encoding - 文件的编码格式，-- **需要学习的知识** --
       + 参考
-         - []()<br>
+         - [How to Encode an Excel File to UTF-8 or UTF-16](https://help.surveygizmo.com/help/encode-an-excel-file-to-utf-8-or-utf-16)<br>
       + 转换与查询的方法
          - Linux
             + 参考
                1. [How to Convert Files to UTF-8 Encoding in Linux](https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/)<br>
-               2. []()<br>
+               2. [HowTo: Check and Change File Encoding In Linux](https://www.shellhacks.com/linux-check-change-file-encoding/)<br>
+               3. [How to find encoding of a file via script on Linux?](https://stackoverflow.com/questions/805418/how-to-find-encoding-of-a-file-via-script-on-linux)<br>
             + 步骤与方法
                1， 查询文档的编码格式
                ```bash
@@ -37,3 +38,10 @@
                    $ iconv -l
                ```
          - Windows
+            + 参考
+               1. [Get encoding of a file in Windows](https://stackoverflow.com/questions/3710374/get-encoding-of-a-file-in-windows)<br>
+               2. []()<br>
+         - Mac OS
+            + 参考
+               1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
+               2. []()<br>
