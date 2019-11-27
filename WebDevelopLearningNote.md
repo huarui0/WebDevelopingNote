@@ -26,5 +26,10 @@
                    $ file -i Car.java
                ```
                2. 转换（更改）编码格式
-         
+               ```bash
+                   $ iconv option
+                   $ iconv options -f from-encoding -t to-encoding inputfile(s) -o outputfile 
+               ```
+               >Where -f or --from-code means input encoding and -t or --to-encoding specifies output encoding.
+                To list all known coded character sets, run the command below:
          - Windows
