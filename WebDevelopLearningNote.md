@@ -42,7 +42,17 @@
          - Windows
             + 参考
                1. [Get encoding of a file in Windows](https://stackoverflow.com/questions/3710374/get-encoding-of-a-file-in-windows)<br>
-               2. []()<br>
+               2. [Control encoding of batch-created file](https://superuser.com/questions/1408312/control-encoding-of-batch-created-file/1408345) - 这个是批量更改文件属性的方法，关键是学习其中的方法<br>
+               3. [Converting UTF-16 to UTF-8 using WideCharToMultiByte in C on Windows](https://stackoverflow.com/questions/57134511/converting-utf-16-to-utf-8-using-widechartomultibyte-in-c-on-windows) - 这个是用C语言的方法，也是学习其中的C语言的代码方法<br>
+               4. [Convert from ANSI to UTF-8](https://stackoverflow.com/questions/31471087/convert-from-ansi-to-utf-8) - 这个是Python的方法<br>
+               5. [Convert sources to UTF-8 without BOM](https://stackoverflow.com/questions/54534765/convert-sources-to-utf-8-without-bom) - 这个是用 Window PowerShell的 脚本方法，PowerShell是微软新开发的Window 10操作系统上用到的脚本 <br>
+               5. [Keep Same Encoding With Set-Content Multiple Files in PowerShell](https://stackoverflow.com/questions/56133188/keep-same-encoding-with-set-content-multiple-files-in-powershell)<br>
+               6. PowerShell的官方教程 及 与Encoding相关的内容
+                  [Understanding file encoding in VSCode and PowerShell](https://docs.microsoft.com/en-us/powershell/scripting/components/vscode/understanding-file-encoding?view=powershell-6)<br>
+                  [Set-Content](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/set-content?view=powershell-6)<br>
+               7. [Changing PowerShell's default output encoding to UTF-8](https://stackoverflow.com/questions/40098771/changing-powershells-default-output-encoding-to-utf-8)<br>
+               8. [HOW TO SOLVE UNICODE ENCODING ISSUES - WHAT IS ENCODING?](https://blog.invivoo.com/how-to-solve-unicode-encoding-issues/)<br>
+               10. [WMIC command in batch outputting non UTF-8 text files](https://stackoverflow.com/questions/55310573/wmic-command-in-batch-outputting-non-utf-8-text-files)<br>
          - Mac OS
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
