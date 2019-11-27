@@ -19,7 +19,7 @@
          - Linux
             + 参考
                1. [How to Convert Files to UTF-8 Encoding in Linux](https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/)<br>
-               2. []()
+               2. []()<br>
             + 步骤与方法
                1， 查询文档的编码格式
                ```bash
@@ -32,4 +32,8 @@
                ```
                >Where `-f` or `--from-code` means input encoding and `-t` or `--to-encoding` specifies output encoding.
                 To list all known coded character sets, run the command below:
+               3. 列可用编码清单
+               ```bash
+                   $ iconv -l
+               ```
          - Windows
