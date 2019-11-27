@@ -30,6 +30,6 @@
                    $ iconv option
                    $ iconv options -f from-encoding -t to-encoding inputfile(s) -o outputfile 
                ```
-               >Where -f or --from-code means input encoding and -t or --to-encoding specifies output encoding.
+               >Where `-f` or `--from-code` means input encoding and `-t` or `--to-encoding` specifies output encoding.
                 To list all known coded character sets, run the command below:
          - Windows
