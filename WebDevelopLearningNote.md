@@ -66,6 +66,10 @@
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
                2. []()<br>
+   * 关于测试
+      + 参考
+         - [You can easily test your HTML/CSS ideas with JsFiddle](http://jsfiddle.net)<br>
+            >You can easily test your HTML/CSS ideas with JsFiddle (`http://jsfiddle.net`), which includes an online editor for snippets build from HTML, CSS, and JavaScript. 
 # Sample
    * Google Search
       + html5 css3 sample site:github.com
