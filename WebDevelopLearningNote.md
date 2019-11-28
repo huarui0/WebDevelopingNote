@@ -34,6 +34,7 @@
          1. how to convert file encoding with command line tool in windows site:stackoverflow.com
       + 参考
          - [How to Encode an Excel File to UTF-8 or UTF-16](https://help.surveygizmo.com/help/encode-an-excel-file-to-utf-8-or-utf-16)<br>
+         - Book: Web Standards Mastering HTML5, CSS3, and XML(2014)  -参考：**CHAPTER 2 - Internationalization**
       + 转换与查询的方法
          - Linux
             + 参考
