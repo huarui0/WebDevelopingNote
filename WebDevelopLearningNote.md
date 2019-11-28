@@ -8,8 +8,9 @@
       + Basic HTML5 and CSS3
       + Javascript
       + Network And WebSocket
+         - Vanessa Wang, Frank Salim, Peter Moskovits - The Definitive Guide to HTML5 WebSocket-Apress (2013).pdf
       + SVG - Scalable Vector Graphics
-         - [Peter Lubbers, Brian Albers, Frank Salim - Pro HTML5 Programming (Professional Apress)-Apress (2011).epub]()<br>
+         - Peter Lubbers, Brian Albers, Frank Salim - Pro HTML5 Programming (Professional Apress)-Apress (2011).epub
             >C H A P T E R  3 - Scalable Vector Graphics
       + Geolocation - 地理位置
       + Muti Media - 多媒体：声音与视频
