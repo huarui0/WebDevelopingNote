@@ -31,9 +31,9 @@
    * :eight_pointed_black_star:关于 Encoding - 文件的编码格式，-- **需要学习的知识** --
       + Google Search
          1. how to convert file encoding with command line tool in windows site:stackoverflow.com
-      + 参考
-         - [How to Encode an Excel File to UTF-8 or UTF-16](https://help.surveygizmo.com/help/encode-an-excel-file-to-utf-8-or-utf-16)<br>
+      + 参考 - 书中关于编码的看看
          - Book: Web Standards Mastering HTML5, CSS3, and XML(2014)  -参考：**CHAPTER 2 - Internationalization**
+         - [How to Encode an Excel File to UTF-8 or UTF-16](https://help.surveygizmo.com/help/encode-an-excel-file-to-utf-8-or-utf-16)<br>
       + 转换与查询的方法
          - Linux
             + 参考
