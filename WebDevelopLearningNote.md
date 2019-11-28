@@ -9,10 +9,13 @@
          - 
          - (Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - `The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012)`.epub
       + Javascript
+      + Comprehensive（综合） - HTML5/CSS3 and Javascript
+         - Jacob Seidelin - `HTML5 Games, 2nd Edition_ Creating Fun with HTML5, CSS3 and WebGL-Wiley (2014)`.pdf
       + Network And WebSocket
          - Vanessa Wang, Frank Salim, Peter Moskovits - `The Definitive Guide to HTML5 WebSocket-Apress (2013)`.pdf
       + Graphics
          - Canvas
+         
          - SVG - Scalable Vector Graphics
             + Peter Lubbers, Brian Albers, Frank Salim - `Pro HTML5 Programming (Professional Apress)-Apress (2011)`.epub
             >C H A P T E R  3 - Scalable Vector Graphics
