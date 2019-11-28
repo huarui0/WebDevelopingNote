@@ -68,7 +68,7 @@
                2. []()<br>
    * 关于测试
       + 参考
-         - [You can easily test your HTML/CSS ideas with JsFiddle](http://jsfiddle.net)<br>
+         - You can easily test your HTML/CSS ideas with [JsFiddle](http://jsfiddle.net)<br>
             >You can easily test your HTML/CSS ideas with JsFiddle (`http://jsfiddle.net`), which includes an online editor for snippets build from HTML, CSS, and JavaScript. 
 # Sample
    * Google Search
