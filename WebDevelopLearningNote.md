@@ -60,3 +60,6 @@
 # Sample
    * Google Search
       + html5 css3 sample site:github.com
+      + JavaScript example site.github.com
+   * GitHub Search
+      + html5 css3 JavaScript
