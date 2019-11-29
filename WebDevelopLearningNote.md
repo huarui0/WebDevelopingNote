@@ -6,7 +6,7 @@
          - 爸爸觉得学习知识，都不能只看一本书，要几本书，互相印证着学比较好，作为 计算机专业，这一点，爸爸认为很重要。-- 一定要取不同书籍之长。。。
          - 这篇文档，就是通过浏览大量的书籍和网站，做的规划，组织，形成的学习脉络。。，然后，就大致知道那部分知识，通过哪本书进行 深入 的学习，
       2. 如何找到最适合的书籍，WebSite - 这一点，爸爸跟你演示，说明。。。要记得问爸爸。。感觉这一点也很重要。。
-   * 参考书：Pascal Rettig - Professional HTML5 Mobile Game Development-Wrox (2012).pdf
+   * 参考书：Pascal Rettig - Professional HTML5 Mobile Game Development-Wrox (2012).pdf - 这书不错，后续考虑作为参考书之一
       + Chapter1 Flying Before You Walk
 ## 作为软件工程的学生，在学习网站开发的时候，是否也要同时关注，如何对开发的Web项目，进行简单的项目管理？比如，如何架构，如何协作，如果管理进度等等。
    * 参考书：Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
