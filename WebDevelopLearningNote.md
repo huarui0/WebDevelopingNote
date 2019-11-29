@@ -1,9 +1,8 @@
 # 快速学习的途径 -思考、探讨
 ## Why WYSIWYG tools aren’t used in this book - 即：刚开始学习的时候，**写代码**是用开发工具，还是直接用文本工具？
    * 参考书：(Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).epub 的理念。
-## 
-
-
+## 是否需要：Flying before Walking - 即，你开始学习知识（看一本书）之前，是否要先最快速的把书翻一遍，看看该书是否值得学习，如果不是，是否，部分值得作为掌握该知识的学习书籍，如果是，是哪部分值得。。。 特别说明：爸爸学习知识，都不一定，只看一本书，作为 计算机专业，这一点，爸爸认为很重要。-- 一定要取不同书籍之长。。。  - 爸爸会通过 微信，跟你演示说明，这一点。。
+   * 参考书：忘了在哪本书上的方法。。。找到再添加。。。
 ## 作为软件工程的学生，在学习网站开发的时候，是否也要同时关注，如何对开发的Web项目，进行简单的项目管理？比如，如何架构，如何协作，如果管理进度等等。
    * 参考书：Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
      - Chapter 3 Planning and High-Level Design
