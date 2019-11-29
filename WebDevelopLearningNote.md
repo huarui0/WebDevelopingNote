@@ -7,6 +7,7 @@
          - 这篇文档，就是通过浏览大量的书籍和网站，做的规划，组织，形成的学习脉络。。，然后，就大致知道那部分知识，通过哪本书进行 深入 的学习，
       2. 如何找到最适合的书籍，WebSite - 这一点，爸爸跟你演示，说明。。。要记得问爸爸。。感觉这一点也很重要。。
    * 参考书：Pascal Rettig - Professional HTML5 Mobile Game Development-Wrox (2012).pdf
+      + Chapter1 Flying Before You Walk
 ## 作为软件工程的学生，在学习网站开发的时候，是否也要同时关注，如何对开发的Web项目，进行简单的项目管理？比如，如何架构，如何协作，如果管理进度等等。
    * 参考书：Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
      - Chapter 3 Planning and High-Level Design
@@ -23,7 +24,7 @@
          - :+1::thumbsup:Patrick M. Carey - New Perspectives HTML5 and CSS3_ Comprehensive-Cengage Learning (2017).pdf - **知识点学习主要书籍**
          - :thumbsup:Sasha Vodnik - HTML5 and CSS3, Illustrated Complete-Course Technology (2015).pdf - **这本为辅，因为旧，但知识点脉络清晰**
          - (Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - `The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012)`.epub
-      + Javascript
+      + HTML5 & Javascript
       + Comprehensive（综合） - HTML5/CSS3 and Javascript
          - :eight_pointed_black_star: :+1:Jacob Seidelin - `HTML5 Games, 2nd Edition_ Creating Fun with HTML5, CSS3 and WebGL-Wiley (2014)`.pdf
       + Network And WebSocket
