@@ -1,5 +1,5 @@
 # 快速学习的途径及方法 -思考、探讨
-## Why WYSIWYG tools aren’t used in this book - 即：刚开始学习的时候，**写代码**是用开发工具，还是直接用文本工具？
+## Why WYSIWYG tools aren’t used in this book - 即：刚开始学习的时候，**写代码**是用开发工具,诸如Visual Studio或InteliJ Idea，还是直接用文本工具，如Vim？
    * 参考书：(Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).epub 的理念。
 ## 是否需要：Flying before Walking - 即：
       1. 你开始学习知识（看一本书）之前，是否要先最快速的把书翻一遍，看看该书是否值得学习，如果不是，是否，部分值得作为掌握该知识的学习书籍，如果是，是哪部分值得。。。 
