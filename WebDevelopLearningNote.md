@@ -33,7 +33,7 @@
             <img src="./filelist_downloaded.png" alt="drawing" height="875" width="616">
          </div><br>
 -->
-            >这么多书，不可能一本一本的看过去，因此，Flying的方法就很重要了。
+            - 这么多书，不可能一本一本的看过去，因此，Flying的方法就很重要了。
 # 书目清单及参考（网站，视频，教材，教程等）
    * 权威参考网站
       + [W3C - STANDARDS](https://www.w3.org/standards/)<br>
