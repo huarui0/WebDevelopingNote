@@ -20,78 +20,11 @@
          + `http://gen.lib.rus.ec/` 
    * 例子 - 关于 Web开发 的 教材搜集 过程
       1. 书籍搜索及下载
-      2. 目前已下的清单
-         >+---HTML&XHTML
-|       (Beginning_ from Novice to Professional) David Schultz, Craig Cook - Beginning HTML with CSS and XHTML_ Modern Guide and Reference-Apress (2007).pdf
-|       By Bill Kennedy, Chuck Musciano - HTML and XHTML - The Definitive Guide (2011).mobi
-|       Chuck Musciano, Bill Kennedy - HTML & XHTML_ The Definitive Guide, 5th Edition-O'Reilly Media (2002).pdf
-|       Chuck Musciano, Bill Kennedy - HTML & XHTML_ The Definitive Guide, 6th edition-O'Reilly Media (2006).epub
-|       Chuck Musciano, Bill Kennedy - HTML & XHTML_ The definitive guide-O'Reilly Media (2006).chm
-|       
-+---HTML5&CSS3
-|   |   (Training & Reference) Anne Boehm, Zak Ruvalcaba - Murach's HTML5 and CSS3-Mike Murach & Associates (2015).pdf
-|   |   Kristofer Layon  - The Web Designers Guide to iOS Apps_ Create iPhone, iPod touch, and iPad apps with Web Standards (HTML5, CSS3, and j#097_vascript) -New Riders Press  (2010).pdf
-|   |   Sasha Vodnik - HTML5 and CSS3, Illustrated Complete-Course Technology (2015).pdf
-|   |   
-|   +---00_Reserved
-|   |       (Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).epub
-|   |       (Learn Apress) Gavin Williams - Learn HTML5 and JavaScript for Android-Apress (2012).epub
-|   |       Academy, iCode - HTML5 & CSS3 For Beginners_ Your Guide To Easily Learn HTML5 & CSS3 Programming in 7 Days (2017).azw3
-|   |       Christopher Schmitt, Kyle Simpson - HTML5 Cookbook (O'Reilly Cookbooks)-O'Reilly Media (2012).pdf
-|   |       Jon Westfall, Rocco Augusto, Grant Allen - Beginning Android Web Apps Development_ Develop for Android using HTML5, CSS3, and JavaScript-Apress (2012).pdf
-|   |       Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
-|   |       Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).pdf
-|   |       Peter Lubbers, Brian Albers, Frank Salim - Pro HTML5 Programming (Professional Apress)-Apress (2011).epub
-|   |       Silvia Pfeiffer (auth.) - The Definitive Guide to HTML5 Video-Apress (2011).pdf
-|   |       
-|   +---01_Deprecated
-|   |       (Spring into) Molly E. Holzschlag - Spring Into HTML and CSS-Addison-Wesley (2005).chm
-|   |       Jacob Seidelin - HTML5 Games_ Creating Fun with HTML5, CSS3, and WebGL-John Wiley & Sons (2012).epub
-|   |       Leslie Sikos - Web Standards_ Mastering HTML5, CSS3, and XML-Apress (2011).epub
-|   |       Leslie Sikos - Web Standards_ Mastering HTML5, CSS3, and XML-Apress (2011).pdf
-|   |       Michael Bowers - Pro CSS and HTML Design Patterns-Apress (2007).pdf
-|   |       Wesley Hales - HTML5 Architecture-O'Reilly Media (2012).pdf
-|   |       
-|   +---HTML5 & CSS3 For The Real World
-|   |   |   Alexis Goldstein, Louis Lazaris, Estelle Weyl - HTML5 & CSS3 For The Real World-SitePoint (2015).pdf
-|   |   |   Goldstein A., Lazaris L., Weyl E. - HTML5 & CSS3 For The Real World (+Code Sample).rar
-|   |   |   HTML5Softarchive.net.azw3
-|   |   |   HTML5Softarchive.net.mobi
-|   |   |   
-|   |   \---Code Sample
-|   |               
-|   +---HTML5 Games  Creating Fun with HTML5, CSS3 and WebGL-Wiley
-|   |       Jacob Seidelin - HTML5 Games  Creating Fun with HTML5, CSS3 and WebGL-Wiley (2014).pdf
-|   |       Jacob Seidelin - HTML5 Games, 2nd Edition_ Creating Fun with HTML5, CSS3 and WebGL-Wiley (2014).pdf
-|   |       
-|   +---HTML5_WebSocket
-|   |       Vanessa Wang, Frank Salim, Peter Moskovits - The Definitive Guide to HTML5 WebSocket-Apress (2013).pdf
-|   |       
-|   +---New Perspectives HTML5 and CSS3_Comprehensive
-|   |       Patrick M. Carey - New Perspectives HTML5 and CSS3_ Comprehensive-Cengage Learning (2017).pdf
-|   |       Patrick M. Carey - New Perspectives HTML5 and CSS3_ Comprehensive-Course Technology (2017).pdf
-|   |       
-|   +---The Definitive Guide to HTML5
-|   |       Adam Freeman - The Definitive Guide to HTML5-Apress (2011).epub
-|   |       Adam Freeman - The Definitive Guide to HTML5-Apress (2011).pdf
-|   |       [Adam_Freeman]_The_Definitive_Guide_to_HTML5(z-lib.org).epub
-|   |       
-|   \---Web Standards_ Mastering HTML5, CSS3, and XML
-|           Leslie F. Sikos Ph.D. (auth.) - Web Standards_ Mastering HTML5, CSS3, and XML-Apress (2014).pdf
-|           Leslie Sikos - Web Standards  Mastering HTML5, CSS3, and XML-Apress (2014).pdf
-|           
-+---HTML5&Games
-\---HTML5&SVG
-    \---Using SVG with CSS3 and HTML5  Vector Graphics for Web Design
-            Amelia Bellamy-Royds, Kurt Cagle, Dudley Storey - Using SVG with CSS3 and HTML5  Vector Graphics for Web Design-O'Reilly (2017).pdf
-            Amelia Bellamy-Royds, Kurt Cagle, Dudley Storey - Using SVG with CSS3 and HTML5_ Vector Graphics for Web Design-O’Reilly Media (2017).epub
+      2. 目前已下载的书目清单
+         + 爸爸已全部Flying一、两遍书目：）
 
-      
-      
-      
-      
-      
-      
+         + 已下载尚未浏览的书目
+
 # 书目清单及参考（网站，视频，教材，教程等）
    * 权威参考网站
       + [W3C - STANDARDS](https://www.w3.org/standards/)<br>
