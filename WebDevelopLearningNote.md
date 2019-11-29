@@ -11,6 +11,7 @@
 ## 作为软件工程的学生，在学习网站开发的时候，是否也要同时关注，如何对开发的Web项目，进行简单的项目管理？比如，如何架构，如何协作，如果管理进度等等。
    * 参考书：Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
      - Chapter 3 Planning and High-Level Design
+## 知识检索方法与途径
 
 # 书目清单及参考（网站，视频，教材，教程等）
    * 权威参考网站
