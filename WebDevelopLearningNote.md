@@ -1,4 +1,5 @@
-# 快速学习的途径 -思考
+# 快速学习的途径 -思考、探讨
+## Why WYSIWYG tools aren’t used in this book - 即：刚开始学习的时候，**写代码**是用开发工具，还是直接用文本工具？参考书：(Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).epub 的理念。
 ## 
 
 
@@ -84,10 +85,14 @@
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
                2. []()<br>
-   * 关于测试
+   * Testing and Debugging - 关于测试和调试
       + 参考
-         - You can easily test your HTML/CSS ideas with [JsFiddle](http://jsfiddle.net)<br>
-            >You can easily test your HTML/CSS ideas with JsFiddle (`http://jsfiddle.net`), which includes an online editor for snippets build from HTML, CSS, and JavaScript. 
+         - Books
+            + (Training & Reference) Anne Boehm, Zak Ruvalcaba - Murach's HTML5 and CSS3-Mike Murach & Associates (2015).pdf
+               >Chapter2 How to test, debug, and validate HTML and CSS file
+         - WebSite
+            + You can easily test your HTML/CSS ideas with [JsFiddle](http://jsfiddle.net)<br>
+               >You can easily test your HTML/CSS ideas with JsFiddle (`http://jsfiddle.net`), which includes an online editor for snippets build from HTML, CSS, and JavaScript. 
 # Sample
    * Google Search
       + html5 css3 sample site:github.com
