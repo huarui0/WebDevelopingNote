@@ -1,3 +1,4 @@
+#
 # 书目清单及参考（网站，视频，教材，教程等）
    * 权威参考网站
       + [W3C - STANDARDS](https://www.w3.org/standards/)<br>
@@ -6,7 +7,8 @@
          >HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Along with graphics and scripting, HTML and CSS are the basis of building Web pages and Web Applications. Learn more below about:
    * 书目清单（优先级顺序）-按类别分
       + Basic HTML5 and CSS3
-         - :+1::thumbsup:Patrick M. Carey - New Perspectives HTML5 and CSS3_ Comprehensive-Cengage Learning (2017).pdf -先以这本书来规划学习脉络
+         - :+1::thumbsup:Patrick M. Carey - New Perspectives HTML5 and CSS3_ Comprehensive-Cengage Learning (2017).pdf - ##知识点学习主要书籍##
+         - :thumbsup:Sasha Vodnik - HTML5 and CSS3, Illustrated Complete-Course Technology (2015).pdf - ##这本为辅，因为旧，但知识点脉络清晰##
          - (Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - `The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012)`.epub
       + Javascript
       + Comprehensive（综合） - HTML5/CSS3 and Javascript
