@@ -1,7 +1,12 @@
 # 快速学习的途径 -思考、探讨
-## Why WYSIWYG tools aren’t used in this book - 即：刚开始学习的时候，**写代码**是用开发工具，还是直接用文本工具？参考书：(Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).epub 的理念。
+## Why WYSIWYG tools aren’t used in this book - 即：刚开始学习的时候，**写代码**是用开发工具，还是直接用文本工具？
+   * 参考书：(Essential Guides) Craig Grannell, Victor Sumner, Dionysios Synodinos - The Essential Guide to HTML5 and CSS3 Web Design-friendsofED (2012).epub 的理念。
 ## 
 
+
+## 作为软件工程的学生，在学习网站开发的时候，是否也要同时关注，如何对开发的Web项目，进行简单的项目管理？比如，如何架构，如何协作，如果管理进度等等。
+   * 参考书：Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
+     - Chapter 3 Planning and High-Level Design
 
 
 
@@ -85,6 +90,12 @@
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
                2. []()<br>
+   * Setting Up Your Development Environment - 关于开发环境的设置
+      + 参考
+         - Books
+            + (Learn Apress) Gavin Williams - Learn HTML5 and JavaScript for Android-Apress (2012).epub - 只是一个引导，因该书已过时，不用用该书的方法了，至少不用全用。。。
+              >Setting Up Your Development Environment 章节
+         - WebSite
    * Testing and Debugging - 关于测试和调试
       + 参考
          - Books
