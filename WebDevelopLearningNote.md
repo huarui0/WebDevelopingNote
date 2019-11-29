@@ -27,9 +27,12 @@
             <img src="./filelist.png" alt="drawing" height="475" width="616">
          </div><br>
          + 已下载，尚未整理，也尚未浏览的书目
+![迅雷下载目录](filelist_downloaded.png)<br>
+<!--
          <div align="left">
             <img src="./filelist_downloaded.png" alt="drawing" height="875" width="616">
          </div><br>
+-->
 # 书目清单及参考（网站，视频，教材，教程等）
    * 权威参考网站
       + [W3C - STANDARDS](https://www.w3.org/standards/)<br>
