@@ -8,7 +8,8 @@
       2. 如何找到最适合的书籍，WebSite - 这一点，爸爸跟你演示，说明。。。要记得问爸爸。。感觉这一点也很重要。。
    * 参考书：Pascal Rettig - Professional HTML5 Mobile Game Development-Wrox (2012).pdf - 这书不错，后续考虑作为参考书之一
       + Chapter1 Flying Before You Walk
-## 学习Web Programming，是不是，要先知其然，然后再去知其所以然。也就是说，学习的时候是不是先，Copy代码，粘贴代码，然后，运行代码，看看代码运行的结果，知道了结果，然后再去深入探究为什么是这个结果，也就是深入学习。编程 应该先 实践，然后，再上升到理论学习。
+## 学习Web Programming，是不是，要先知其然，然后再去知其所以然。也就是说：
+      + 学习的时候是不是先，Copy代码，粘贴代码，然后，运行代码，看看代码运行的结果，知道了结果，然后再去深入探究为什么是这个结果，也就是深入学习。编程 应该先 实践，然后，再上升到理论学习。
 ## 作为软件工程的学生，在学习网站开发的时候，是否也要同时关注，如何对开发的Web项目，进行简单的项目管理？比如，如何架构，如何协作，如果管理进度等等。
    * 参考书：Jonathan Lane, Tom Barker, Joe Lewis, Meitar Moscovitz - Foundation Website Creation with HTML5, CSS3, and JavaScript-friendsofED (2012).epub
      - Chapter 3 Planning and High-Level Design
