@@ -141,3 +141,5 @@
       + JavaScript example site.github.com
    * GitHub Search
       + html5 css3 JavaScript
+         - [html5-css3-javascript](https://github.com/topics/html5-css3-javascript) -  Code sample concern with html5 css3 JavaScript <br>
+         - [edysegura/code-samples](https://github.com/edysegura/code-samples)<br>
