@@ -121,6 +121,20 @@
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
                2. []()<br>
+   * :eight_pointed_black_star:Why Bitwise - Bitwise Operators 的相关知识，是否需要用到，值得探索，要找权威的书籍看，-- **需要学习的知识：如果只是想当码农，就不用多了解，否则，必须深入研究！** --
+      + Google Search
+         1. why use bitwise operators
+            - [ECMAScript Language Specification - 5.1版](http://www.ecma-international.org/ecma-262/5.1/ECMA-262.pdf)<br>
+            - [ECMAScript Language Specification - 2019年最新版10.0版](https://www.ecma-international.org/ecma-262/10.0/index.html)<br>
+            - [ECMAScript® 2020 Language Specification](https://tc39.es/ecma262/) - 2020版？<br>
+            - [Bitwise operators - From MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators) - 注意 这个网址中/en-US/表示：语言是**美国英语**<br>
+            - [按位操作符 - From MDN web docs 中文版](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators) - 注意 这个网址中/zh-CN/表示：语言是**中文**<br>
+            - [The Bitwise Operators](https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node36.html)<br>
+            - [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)<br>
+            
+            - [为什么不要在 JavaScript 中使用位操作符？]() - 因为这是2015年得文章，随着技术得发展，对于现在（2019年）已经不一定正确，但其中关于**数据本质**部分可以看看，更深入的了解，请找权威的书籍或资料 - [ECMAScript Language Specification - 这是后一个文档的镜像](https://www.ecma-international.org/ecma-262/5.1/#sec-11.10) 或者[ECMAScript Language Specification](http://www.ecma-international.org/ecma-262/5.1/ECMA-262.pdf)。也关注一下文章后面的“参考资料”部分<br>
+      + 参考书
+
    * Setting Up Your Development Environment - 关于开发环境的设置
       + 参考
          - Books
