@@ -133,6 +133,10 @@
             - [The Bitwise Operators](https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node36.html)<br>
             - [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)<br>
             - [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c) - 参考其中的例子，思考：这些例子能解决什么问题<br>
+            - [Exclusive or](https://en.wikipedia.org/wiki/Exclusive_or) - From Wikipedia, the free encyclopedia<br>
+            - [一件Intent教我的事： Bitwise Operation](https://medium.com/@kazafchen/%E4%B8%80%E4%BB%B6intent%E6%95%99%E6%88%91%E7%9A%84%E4%BA%8B-bitwise-operation-dd3a388ae34e) - 比较浅显的说明，为何要使用 Bitwise operators<br>
+            - [從LeetCode學演算法 - 11 Bitwise Operation (1)](https://medium.com/@desolution/%E5%BE%9Eleetcode%E5%AD%B8%E6%BC%94%E7%AE%97%E6%B3%95-11-bitwise-operation-1-3117c4ce925d) - 练习题，可以很好理解 Bitwise Operators<br>
+            - [Using JavaScript’s Bitwise Operators in Real Life](https://codeburst.io/using-javascript-bitwise-operators-in-real-life-f551a731ff5?gi=8a76f261d8d2) - 通过例子，了解 Bitwise operation 的**用法**<br>
             - [为什么不要在 JavaScript 中使用位操作符？](https://jerryzou.com/posts/do-you-really-want-use-bit-operators-in-JavaScript/) - 因为这是2015年得文章，随着技术得发展，对于现在（2019年）已经不一定正确，但其中关于**数据本质**部分可以看看，更深入的了解，请找权威的书籍或资料 - [ECMAScript Language Specification - 这是后一个文档的镜像](https://www.ecma-international.org/ecma-262/5.1/#sec-11.10) 或者[ECMAScript Language Specification](http://www.ecma-international.org/ecma-262/5.1/ECMA-262.pdf)。也关注一下文章后面的“参考资料”部分<br>
       + 参考书
 
