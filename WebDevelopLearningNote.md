@@ -129,10 +129,11 @@
             - [ECMAScript® 2020 Language Specification](https://tc39.es/ecma262/) - 2020版？<br>
             - [Bitwise operators - From MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators) - 注意 这个网址中/en-US/表示：语言是**美国英语**<br>
             - [按位操作符 - From MDN web docs 中文版](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators) - 注意 这个网址中/zh-CN/表示：语言是**中文**<br>
+            - [Bitwise operation](https://en.wikipedia.org/wiki/Bitwise_operation) - From Wikipedia, the free encyclopedia<br>
             - [The Bitwise Operators](https://users.cs.cf.ac.uk/Dave.Marshall/PERL/node36.html)<br>
             - [Bitwise Operators in C/C++](https://www.geeksforgeeks.org/bitwise-operators-in-c-cpp/)<br>
-            
-            - [为什么不要在 JavaScript 中使用位操作符？]() - 因为这是2015年得文章，随着技术得发展，对于现在（2019年）已经不一定正确，但其中关于**数据本质**部分可以看看，更深入的了解，请找权威的书籍或资料 - [ECMAScript Language Specification - 这是后一个文档的镜像](https://www.ecma-international.org/ecma-262/5.1/#sec-11.10) 或者[ECMAScript Language Specification](http://www.ecma-international.org/ecma-262/5.1/ECMA-262.pdf)。也关注一下文章后面的“参考资料”部分<br>
+            - [Bitwise operators — Facts and Hacks](https://medium.com/@shashankmohabia/bitwise-operators-facts-and-hacks-903ca516f28c) - 参考其中的例子，思考：这些例子能解决什么问题<br>
+            - [为什么不要在 JavaScript 中使用位操作符？](https://jerryzou.com/posts/do-you-really-want-use-bit-operators-in-JavaScript/) - 因为这是2015年得文章，随着技术得发展，对于现在（2019年）已经不一定正确，但其中关于**数据本质**部分可以看看，更深入的了解，请找权威的书籍或资料 - [ECMAScript Language Specification - 这是后一个文档的镜像](https://www.ecma-international.org/ecma-262/5.1/#sec-11.10) 或者[ECMAScript Language Specification](http://www.ecma-international.org/ecma-262/5.1/ECMA-262.pdf)。也关注一下文章后面的“参考资料”部分<br>
       + 参考书
 
    * Setting Up Your Development Environment - 关于开发环境的设置
