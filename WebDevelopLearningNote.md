@@ -154,6 +154,26 @@
          - WebSite
             + You can easily test your HTML/CSS ideas with [JsFiddle](http://jsfiddle.net)<br>
                >You can easily test your HTML/CSS ideas with JsFiddle (`http://jsfiddle.net`), which includes an online editor for snippets build from HTML, CSS, and JavaScript. 
+# 设计思路及实现步骤的探讨 - 以 How to create 3D Loft Style Login Form with CSS 为例子。
+   * 如何设计草图或界面图
+      + 工具
+   * 步骤
+      + 1. 创建file及选用字体等，设置style.css及其他相关的基础设置
+      + 2. 添加 网页的基本元素，如输入框，标题，子标题，图标等。
+      ```html
+          <div class="login-div">
+              <div class="logo"></div>
+              <div class="title">Red Stapler</div>
+              <div class="sub-title">Beta</div>
+              <div class="fields">
+                  <div class="username"><input type="username" class="user-input" placeholder="Username" /></div>
+                  <div class="password"><input type="password" class="pass-input" placeholder="Password" /></div>
+              </div>
+              <button class="signin-button">LOG IN</button>
+              <div class="link"><a href="#">Forgot password?</a></div>
+          </div>
+      ```
+      + 3. 
 # Sample
    * Google Search
       + html5 css3 sample site:github.com
