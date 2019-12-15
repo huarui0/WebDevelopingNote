@@ -70,8 +70,8 @@
       + 工具书 - 即要查某个知识的用法，可以查查下面的书
          - (Complete Reference Series) Thomas Powell - HTML & CSS_ The Complete Reference, Fifth Edition (Complete Reference Series)-McGraw-Hill Osborne Media (2010).pdf
          - Keith J. Grant - CSS in Depth-Manning Publications (2018).pdf
-   * 其他参考
-      - [Notes]() -- 这<br>
+   * Notes - 临时笔记
+      - [HTML Imports](https://www.html5rocks.com/en/tutorials/webcomponents/imports/) -- 关于引用外部网页内容的几个方法，便于将网页按功能分类的可选方法<br>
 
 # html知识总览
 
