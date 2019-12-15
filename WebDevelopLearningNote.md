@@ -73,6 +73,7 @@
    * Notes - 临时笔记
       - [HTML Imports](https://www.html5rocks.com/en/tutorials/webcomponents/imports/) -- 关于引用外部网页内容的几个方法，便于将网页按功能分类的可选方法<br>
       - [Basic usage of canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage) - Canvas的一些基本用法<br>
+      - [Resources for developers, by developers.](https://developer.mozilla.org/en-US/) - 开发者资源，mozilla是火狐浏览器的开发者<br>
 
 # html知识总览
 
