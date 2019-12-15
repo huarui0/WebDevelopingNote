@@ -161,7 +161,7 @@
       + 工具
    * 步骤
       + 1. 创建file及选用字体等，设置style.css及其他相关的基础设置
-      + 2. 添加 网页的基本元素，如输入框，标题，子标题，图标等。
+      + 2. 添加 网页的基本元素，如输入框，标题，子标题，图标等，并根据需要设置Style的元素预先设置class名称，以便针对性设置对象属性。
       ```html
           <div class="login-div">
               <div class="logo"></div>
@@ -175,7 +175,10 @@
               <div class="link"><a href="#">Forgot password?</a></div>
           </div>
       ```
-      + 3. 
+      + 3. 根据页面设计布局，编写对应的Style，如设置 login-div 的长宽布局等等。。。
+      ```css
+      
+      ```
 # Sample
    * Google Search
       + html5 css3 sample site:github.com
