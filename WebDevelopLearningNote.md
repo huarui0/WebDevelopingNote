@@ -179,6 +179,9 @@
       ```css
       
       ```
+   * 后续
+      1. 以Venilla Javascript 的方式如何实现
+      2. 与后端数据库如何交互，即如果已有用户，如何处理，新用户如何保存到后端数据库。
 # Sample
    * Google Search
       + html5 css3 sample site:github.com
