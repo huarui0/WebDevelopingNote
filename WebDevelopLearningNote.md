@@ -116,6 +116,11 @@
                      ```bash
                          iconv -f GB2312 -t UTF-8 exp1-2_jinyi.cpp > exp1-2_jinyi_utf8.cpp
                      ```
+                  - 更改一个文件夹中的所有文件的编码 - Convert all files in a folder to utf-8 using iconv --> 参考：[t3chnoboy/gist:8322246](https://gist.github.com/t3chnoboy/8322246)<br>
+                  ```bash
+                     # 参考自：# http://stackoverflow.com/questions/4544669/batch-convert-latin-1-files-to-utf-8-using-iconv
+                     find . -type f -exec bash -c 'iconv -f iso-8859-1 -t utf-8 "{}" > /path/to/destination/"{}"' \;
+                  ```
                   - 批量更改多个文件的脚本
                   ```bash
                       #!/bin/bash
