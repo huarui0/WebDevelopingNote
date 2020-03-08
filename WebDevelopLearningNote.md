@@ -86,7 +86,7 @@
       + 转换与查询的方法
          - Linux
             + 参考
-               1. [How to Convert Files to UTF-8 Encoding in Linux](https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/)<br>
+               1. [How to Convert Files to UTF-8 Encoding in Linux](https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/) -下面脚本，是参考这个教程。。。<br>
                2. [HowTo: Check and Change File Encoding In Linux](https://www.shellhacks.com/linux-check-change-file-encoding/)<br>
                3. [How to find encoding of a file via script on Linux?](https://stackoverflow.com/questions/805418/how-to-find-encoding-of-a-file-via-script-on-linux)<br>
             + 步骤与方法
@@ -116,6 +116,21 @@
                      ```bash
                          iconv -f GB2312 -t UTF-8 exp1-2_jinyi.cpp > exp1-2_jinyi_utf8.cpp
                      ```
+                  - 批量更改多个文件的脚本
+                  ```bash
+                      #!/bin/bash
+                      #enter input encoding here
+                      FROM_ENCODING="value_here"
+                      #output encoding(UTF-8)
+                      TO_ENCODING="UTF-8"
+                      #convert
+                      CONVERT=" iconv  -f   $FROM_ENCODING  -t   $TO_ENCODING"
+                      #loop to convert multiple files 
+                      for  file  in  *.txt; do
+                           $CONVERT   "$file"   -o  "${file%.txt}.utf8.converted"
+                      done
+                      exit 0                  
+                  ```
          - Windows
             + 参考
                1. [Get encoding of a file in Windows](https://stackoverflow.com/questions/3710374/get-encoding-of-a-file-in-windows)<br>
