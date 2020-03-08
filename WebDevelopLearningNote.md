@@ -105,6 +105,17 @@
                ```bash
                    $ iconv -l
                ```
+               4. 实际应用 - 注意: 用file查的时候是：ISO-8859，但：iconv不认识，会报不支持的错误。因此要将 ISO-8859 换为 GB2312 ！！！
+                  - 将 ISO-8859 - 实际应该是GB2312的一种， 更改为UTF8编码
+                     * 查编码格式                  
+                     ```bash
+                         $ file *
+                         exp1-1_jinyi.cpp: C source, ISO-8859 text, with CRLF line terminators
+                     ```
+                     * 更改编码格式
+                     ```bash
+                         iconv -f GB2312 -t UTF-8 exp1-2_jinyi.cpp > exp1-2_jinyi_utf8.cpp
+                     ```
          - Windows
             + 参考
                1. [Get encoding of a file in Windows](https://stackoverflow.com/questions/3710374/get-encoding-of-a-file-in-windows)<br>
