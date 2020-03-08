@@ -112,7 +112,7 @@
                          $ file *
                          exp1-1_jinyi.cpp: C source, ISO-8859 text, with CRLF line terminators
                      ```
-                     * 更改编码格式
+                     * 更改编码格式，并将文件存为新文件。
                      ```bash
                          iconv -f GB2312 -t UTF-8 exp1-2_jinyi.cpp > exp1-2_jinyi_utf8.cpp
                      ```
