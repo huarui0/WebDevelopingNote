@@ -89,7 +89,7 @@
                1. [How to Convert Files to UTF-8 Encoding in Linux](https://www.tecmint.com/convert-files-to-utf-8-encoding-in-linux/) -下面脚本，是参考这个教程。。。<br>
                2. [HowTo: Check and Change File Encoding In Linux](https://www.shellhacks.com/linux-check-change-file-encoding/)<br>
                3. [How to find encoding of a file via script on Linux?](https://stackoverflow.com/questions/805418/how-to-find-encoding-of-a-file-via-script-on-linux)<br>
-            + 步骤与方法
+            + iconv步骤与方法 - iconv
                1， 查询文档的编码格式
                ```bash
                    $ file -i Car.java
@@ -112,6 +112,10 @@
                          $ file *
                          exp1-1_jinyi.cpp: C source, ISO-8859 text, with CRLF line terminators
                      ```
+                     * 直接更改文件编码格式 - 不用转存
+                     ```bash
+                         iconv -f GB2312 -t UTF-8 exp1-2_jinyi.cpp
+                     ```                     
                      * 更改编码格式，并将文件存为新文件。
                      ```bash
                          iconv -f GB2312 -t UTF-8 exp1-2_jinyi.cpp > exp1-2_jinyi_utf8.cpp
@@ -136,6 +140,15 @@
                       done
                       exit 0                  
                   ```
+            + vim的方法 - 参考 [Linux 文件名编码转换 乱码 解决办法](http://www.kumouse.com/?p=445)<br>
+               - 查看
+                  * 在Vim编辑状态，:set fileencoding
+               - 在Vim中直接进行转换文件编码
+                  * 在Vim编辑状态，:set fileencoding=utf-8
+               - vim 编码方式的设置
+            + convmv的方法
+               - convmv的安装
+               - convmv -f UTF-8 -t GBK –notest utf8编码的文件名
          - Windows
             + 参考
                1. [Get encoding of a file in Windows](https://stackoverflow.com/questions/3710374/get-encoding-of-a-file-in-windows)<br>
@@ -150,6 +163,33 @@
                7. [Changing PowerShell's default output encoding to UTF-8](https://stackoverflow.com/questions/40098771/changing-powershells-default-output-encoding-to-utf-8)<br>
                8. [HOW TO SOLVE UNICODE ENCODING ISSUES - WHAT IS ENCODING?](https://blog.invivoo.com/how-to-solve-unicode-encoding-issues/)<br>
                10. [WMIC command in batch outputting non UTF-8 text files](https://stackoverflow.com/questions/55310573/wmic-command-in-batch-outputting-non-utf-8-text-files)<br>
+            + 方法
+               1. 在cmd中输入 CHCP 65001
+               2. regedit的方法
+                  - >找到HKEY_CURRENT_USER\Console\%SystemRoot%_system32_cmd.exe
+                    >新建一个 DWORD（32位值）,命名为CodePage，值设为65001
+                    >已有CodePage的话，修改它，改为十进制，65001
+               3. 新建一个cmd.reg, 编辑内容如下：
+                  - ```bash
+                        Windows Registry Editor Version 5.00
+ 
+ 
+ 
+                        [HKEY_CURRENT_USER\Console\%SystemRoot%_system32_cmd.exe]
+
+                        "CodePage"=dword:0000fde9
+
+                        "FontFamily"=dword:00000036
+
+                        "FontWeight"=dword:00000190
+
+                        "FaceName"="Consolas"
+
+                        "ScreenBufferSize"=dword:232900d2
+
+                        "WindowSize"=dword:002b00d2  
+                    ```
+               
          - Mac OS
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
