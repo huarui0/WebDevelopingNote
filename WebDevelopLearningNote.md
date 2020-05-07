@@ -189,7 +189,7 @@
 
                         "WindowSize"=dword:002b00d2  
                     ```
-               
+               4. 保存之后，双击cmd.reg即可。
          - Mac OS
             + 参考
                1. [How to Determine File Encoding in Mac OS by Command Line](http://osxdaily.com/2017/09/02/determine-file-encoding-mac-command-line/)<br>
